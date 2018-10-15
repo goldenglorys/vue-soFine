@@ -4,6 +4,7 @@ import Home from './components/home.vue'
 import Sign_In from './components/signIn.vue'
 import CustDashboard from './components/dashBoard.vue'
 import GuestNav from './components/guestNav.vue'
+import HomeDashboard from './components/homeDashboard.vue'
 
 vue.use(Router)
 
@@ -28,6 +29,11 @@ routes: [
 		path: '/home',
 		name: 'home',
 		component: Home
+	},
+	{
+		path: '/homedash',
+		name: 'homedash',
+		component: HomeDashboard
 	}
 ]
 	})
