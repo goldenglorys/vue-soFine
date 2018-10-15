@@ -1,3 +1,4 @@
+
 <template>
   <div id=sign>
       <div style="background-image: url('./assets2/img/login.jpg'); background-repeat: no-repeat; background-size: cover;">
@@ -103,7 +104,7 @@
 
 <script>
 export default {
-  name: 'SignIn',
+  name: 'Sign_In',
   props: {
     msg: String
   }

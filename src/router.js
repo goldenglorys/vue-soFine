@@ -1,8 +1,9 @@
 import vue from 'vue'
 import Router from 'vue-router'
 import Home from './components/home.vue'
-import SignIn from './components/signIn.vue'
-// import CustomerDashBoard from './components/customer-dashBoard.vue'
+import Sign_In from './components/signIn.vue'
+import CustDashboard from './components/dashBoard.vue'
+import GuestNav from './components/guestNav.vue'
 
 vue.use(Router)
 
@@ -11,17 +12,22 @@ routes: [
 	{
 		path: '/',
 		name: 'index',
-		component: Home
+		component: GuestNav
 	},
 	{
 		path: '/signIn',
 		name: 'sign',
-		component: SignIn
+		component: Sign_In
+	},
+	{
+		path: '/custDash',
+		name: 'custdash',
+		component: CustDashboard
+	},
+	{
+		path: '/home',
+		name: 'home',
+		component: Home
 	}
-	// {
-	// 	path: '/custDash',
-	// 	name: 'custdash',
-	// 	component: CustomerDashBoard
-	// }
 ]
 	})

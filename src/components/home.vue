@@ -35,9 +35,9 @@
                 <strong></strong>
               </p>
 
-              <a target="_blank" href="" class="btn btn-outline-white btn-lg">JOIN NOW
+              <router-link to="/custDash" href="#" class="btn btn-outline-white btn-lg">JOIN NOW
                 <i class="fa fa-graduation-cap ml-2"></i>
-              </a>
+              </router-link>
             </div>
             <!-- Content -->
 

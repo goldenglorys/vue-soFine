@@ -1,12 +1,8 @@
-<template>
-  <div id=sign>
-      <div class="wrapper ">
-    <div class="sidebar" data-color="purple" data-background-color="white" data-image="../assets/img/sidebar-1.jpg">
-      <!--
-        Tip 1: You can change the color of the sidebar using: data-color="purple | azure | green | orange | danger"
 
-        Tip 2: you can also add an image using data-image tag
-    -->
+<template>
+  <div id="app">
+  <div class="wrapper ">
+    <div class="sidebar" data-color="purple" data-background-color="white" data-image="./assets/img/sidebar-1.jpg">
       <div class="logo">
         <a href="http://www.creative-tim.com" class="simple-text logo-normal">
           Creative Tim
@@ -569,60 +565,37 @@
           </nav>
           <div class="copyright float-right">
             &copy;
-            <script>
-              document.write(new Date().getFullYear())
-            </script>, made with <i class="material-icons">favorite</i> by
+             made with <i class="material-icons">favorite</i> by
             <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a> for a better web.
           </div>
         </div>
       </footer>
     </div>
   </div>
+
   </div>
 </template>
 
 <script>
+ document.write(new Date().getFullYear())
+
 export default {
-  name: 'DashBoard',
-  props: {
-    msg: String
+  name: 'CustDashboard',
+  components: {
   }
 }
-
- $(document).ready(function() {
-      // Javascript method's body can be found in assets/js/demos.js
-      md.initDashboardPageCharts();
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-html,
-    body,
-    header,
-    .view {
-      height: 100%;
-    }
+<style>
 
-    @media (max-width: 740px) {
-      html,
-      body,
-      header,
-      .view {
-        height: 1000px;
-      }
-    }
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
 
-    @media (min-width: 800px) and (max-width: 850px) {
-      html,
-      body,
-      header,
-      .view {
-        height: 650px;
-      }
-    }
-    @media (min-width: 800px) and (max-width: 850px) {
-              .navbar:not(.top-nav-collapse) {
-                  background: #1C2331!important;
-              }
-          }
+
 </style>
