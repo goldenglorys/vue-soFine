@@ -1,8 +1,6 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
-    <!-- Full Page Intro -->
-  <div class="view full-page-intro" style="background-image: url('https://mdbootstrap.com/img/Photos/Others/images/78.jpg'); background-repeat: no-repeat; background-size: cover;">
+  <div id=sign>
+      <div style="background-image: url('./assets2/img/login.jpg'); background-repeat: no-repeat; background-size: cover;">
 
     <!-- Mask & flexbox options-->
     <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
@@ -100,7 +98,6 @@
     <!-- Mask & flexbox options-->
 
   </div>
-  <!-- Full Page Intro -->
   </div>
 </template>
 
