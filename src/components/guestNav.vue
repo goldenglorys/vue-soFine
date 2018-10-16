@@ -1,7 +1,7 @@
 
 <template>
   <div id="app">
-  <nav class="navbar fixed-top navbar-expand-lg navbar-default scrolling-navbar">
+  <nav class="navbar fixed-top navbar-expand-lg navbar-absolute scrolling-navbar">
     <div class="container">
 
       <a class="navbar-brand" href="#" target="_blank">
