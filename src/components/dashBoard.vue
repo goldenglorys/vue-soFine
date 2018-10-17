@@ -1,4 +1,3 @@
-
 <template>
   <div>
   <div class="wrapper ">
@@ -18,38 +17,38 @@
           </li>
           <li class="nav-item ">
             <a class="nav-link" href="./user.html">
-              <i class="material-icons">person</i>
-              <p>User Profile</p>
+              <i class="fa fa-envelope"></i>
+              <p>Inbox</p>
             </a>
           </li>
           <li class="nav-item ">
             <a class="nav-link" href="./tables.html">
-              <i class="material-icons">content_paste</i>
-              <p>Table List</p>
+              <i class="fa fa-tag"></i>
+              <p>Categories</p>
             </a>
           </li>
           <li class="nav-item ">
             <a class="nav-link" href="./typography.html">
               <i class="material-icons">library_books</i>
-              <p>Typography</p>
+              <p>Onlin</p>
             </a>
           </li>
           <li class="nav-item ">
             <a class="nav-link" href="./icons.html">
-              <i class="material-icons">bubble_chart</i>
-              <p>Icons</p>
-            </a>
-          </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="./map.html">
-              <i class="material-icons">location_ons</i>
-              <p>Maps</p>
+              <i class="fa fa-send"></i>
+              <p>Make Special Request</p>
             </a>
           </li>
           <li class="nav-item ">
             <a class="nav-link" href="./notifications.html">
-              <i class="material-icons">notifications</i>
-              <p>Notifications</p>
+              <i class="fa fa-gear"></i>
+              <p>Settings</p>
+            </a>
+          </li>
+           <li class="nav-item ">
+            <a class="nav-link" href="./map.html">
+              <i class="material-icons">switch</i>
+              <p>View as Tailor</p>
             </a>
           </li>
           <!-- <li class="nav-item active-pro ">
@@ -123,7 +122,7 @@
       </nav>
       <!-- End Navbar -->
       <div class="content">
-        <div>
+        <div class="container-fluid">
           <HomeDashboard></HomeDashboard>
         </div>
       </div>
@@ -180,5 +179,4 @@ export default {
 </script>
 
 <style>
-
 </style>

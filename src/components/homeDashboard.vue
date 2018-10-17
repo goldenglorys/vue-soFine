@@ -669,7 +669,7 @@ html,
       body,
       header,
       .carousel {
-        height: 100vh;
+        height: 60vh;
       }
     }
 
@@ -678,7 +678,7 @@ html,
       body,
       header,
       .carousel {
-        height: 100vh;
+        height:60vh;
       }
     }
 

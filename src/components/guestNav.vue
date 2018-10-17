@@ -1,21 +1,22 @@
 
 <template>
-  <div id="app">
-  <nav class="navbar fixed-top navbar-expand-lg navbar-absolute scrolling-navbar">
+  <div>
+  <nav class="navbars fixed-top navbars-expand-lg navbar-dark scrolling-navbars ">
     <div class="container">
 
-      <a class="navbar-brand" href="#" target="_blank">
+      <a class="navbars-brand" href="#" target="_blank">
         <strong>SoFine</strong>
       </a>
 
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+      <button class="navbars-toggler" type="button" data-toggle="collapse" data-target="#navbarsSupportedContent" aria-controls="navbarsSupportedContent"
         aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
+            
+            <span class="navbars-toggler-icon icon-bar"></span>
       </button>
 
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div class="collapse navbars-collapse" id="navbarsSupportedContent">
 
-        <ul class="navbar-nav mr-auto">
+        <ul class="navbars-nav mr-auto">
          
           <li class="nav-item active">
             <a  class="nav-link" href="#" v-on:click="side('home')" >Home
@@ -33,7 +34,7 @@
           </li>
         </ul>
 
-        <ul class="navbar-nav nav-flex-icons">
+        <ul class="navbars-nav nav-flex-icons">
           <li class="nav-item">
             <a href="#" class="nav-link" target="_blank">
               <i class="fa fa-facebook"></i>
@@ -55,7 +56,7 @@
 
     </div>
   </nav>
-  <!-- Navbar -->
+  <!-- navbars -->
 
       <div v-if="homes">
           <Home></Home>
@@ -216,6 +217,7 @@ export default {
   margin-top: 60px;
 }
 
+
 html,
       body,
       header,
@@ -230,6 +232,10 @@ html,
         .carousel {
           height: 100vh;
         }
+        .border {
+        width:9vh;
+        font-size:20px
+        }
       }
 
       @media (min-width: 800px) and (max-width: 850px) {
@@ -242,7 +248,7 @@ html,
       }
 
       @media (min-width: 800px) and (max-width: 850px) {
-              .navbar:not(.top-nav-collapse) {
+              .navbars:not(.top-nav-collapse) {
                   background: #1C2331!important;
               }
           }
