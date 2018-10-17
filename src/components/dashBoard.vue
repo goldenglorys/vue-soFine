@@ -28,11 +28,11 @@
             </a>
           </li>
           <li class="nav-item ">
-            <a class="nav-link" href="./typography.html">
-              <i class="material-icons">library_books</i>
-              <p>Onlin</p>
+            <a class="nav-link" href="#">
+              <md-switch v-model="boolean" class="md-primary"><p>Online Status</p></md-switch>
+              
             </a>
-          </li>
+          </li>            
           <li class="nav-item ">
             <a class="nav-link" href="./icons.html">
               <i class="fa fa-send"></i>
@@ -172,11 +172,17 @@ import HomeDashboard from './homeDashboard.vue'
 
 export default {
   name: 'CustDashboard',
+  data: () => ({
+      boolean: true
+    }),
   components: {
   HomeDashboard
   }
 }
 </script>
 
-<style>
+<style  >
+.md-switch {
+    display: flex;
+  }
 </style>
