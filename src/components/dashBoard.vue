@@ -18,7 +18,7 @@
           <li class="nav-item ">
             <a class="nav-link" href="./user.html">
               <i class="fa fa-envelope"></i>
-              <p>Inbox</p>
+              <p>Messager</p>
             </a>
           </li>
           <li class="nav-item ">
@@ -122,7 +122,7 @@
       </nav>
       <!-- End Navbar -->
       <div class="content">
-        <div class="container-fluid">
+        <div>
           <HomeDashboard></HomeDashboard>
         </div>
       </div>
@@ -167,6 +167,7 @@
 
 <script>
 import HomeDashboard from './homeDashboard.vue'
+import Message from './message.vue'
 
  document.write(new Date().getFullYear())
 
@@ -176,7 +177,8 @@ export default {
       boolean: true
     }),
   components: {
-  HomeDashboard
+  HomeDashboard,
+  Message
   }
 }
 </script>

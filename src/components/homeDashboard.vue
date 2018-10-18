@@ -17,29 +17,28 @@
 
       <!--First slide-->
       <div class="carousel-item active">
-        <div class="view" style="background-image: url('https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/8-col/img%282%29.jpg'); background-repeat: no-repeat; background-size: cover;">
+        <div class="view" style="background-image: url('./assets2/img/caro1.jpg'); background-repeat: no-repeat; background-size: cover;">
 
           <!-- Mask & flexbox options-->
-          <div class="mask rgba-black-strong d-flex justify-content-center align-items-center">
+          <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
 
             <!-- Content -->
             <div class="text-center white-text mx-5 wow fadeIn">
               <h1 class="mb-4">
-                <strong>Learn Bootstrap 4 with MDB</strong>
+                <strong>Hire Experts &</strong>
               </h1>
 
               <p>
-                <strong>Best & free guide of responsive web design</strong>
+                <strong>Get Your Jobs Done</strong>
               </p>
 
               <p class="mb-4 d-none d-md-block">
-                <strong>The most comprehensive tutorial for the Bootstrap 4. Loved by over 500 000 users. Video and written versions
-                  available. Create your own, stunning website.</strong>
+                <strong></strong>
               </p>
 
-              <a target="_blank" href="https://mdbootstrap.com/bootstrap-tutorial/" class="btn btn-outline-white btn-lg">Start free tutorial
+              <router-link to="/custDash" href="#" class="btn btn-outline-white btn-lg">JOIN NOW
                 <i class="fa fa-graduation-cap ml-2"></i>
-              </a>
+              </router-link>
             </div>
             <!-- Content -->
 
@@ -52,27 +51,26 @@
 
       <!--Second slide-->
       <div class="carousel-item">
-        <div class="view" style="background-image: url('https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/8-col/img%283%29.jpg'); background-repeat: no-repeat; background-size: cover;">
+        <div class="view" style="background-image: url('./assets2/img/caro1.jpg'); background-repeat: no-repeat; background-size: cover;">
 
           <!-- Mask & flexbox options-->
-          <div class="mask rgba-black-strong d-flex justify-content-center align-items-center">
+          <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
 
             <!-- Content -->
             <div class="text-center white-text mx-5 wow fadeIn">
               <h1 class="mb-4">
-                <strong>Learn Bootstrap 4 with MDB</strong>
+                <strong>Hire Experts &</strong>
               </h1>
 
               <p>
-                <strong>Best & free guide of responsive web design</strong>
+                <strong>Get Your Jobs Done</strong>
               </p>
 
               <p class="mb-4 d-none d-md-block">
-                <strong>The most comprehensive tutorial for the Bootstrap 4. Loved by over 500 000 users. Video and written versions
-                  available. Create your own, stunning website.</strong>
+                <strong></strong>
               </p>
 
-              <a target="_blank" href="https://mdbootstrap.com/bootstrap-tutorial/" class="btn btn-outline-white btn-lg">Start free tutorial
+              <a target="_blank" href="#" class="btn btn-outline-white btn-lg">JOIN NOW
                 <i class="fa fa-graduation-cap ml-2"></i>
               </a>
             </div>
@@ -87,28 +85,27 @@
 
       <!--Third slide-->
       <div class="carousel-item">
-        <div class="view" style="background-image: url('https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/8-col/img%285%29.jpg'); background-repeat: no-repeat; background-size: cover;">
+        <div class="view" style="background-image: url('./assets2/img/caro1.jpg'); background-repeat: no-repeat; background-size: cover;">
 
           <!-- Mask & flexbox options-->
-          <div class="mask rgba-black-strong d-flex justify-content-center align-items-center">
+          <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
 
             <!-- Content -->
             <div class="text-center white-text mx-5 wow fadeIn">
               <h1 class="mb-4">
-                <strong>Learn Bootstrap 4 with MDB</strong>
+                <strong>Hire Experts &</strong>
               </h1>
 
               <p>
-                <strong>Best & free guide of responsive web design</strong>
+                <strong>Get Your Jobs Done</strong>
               </p>
 
               <p class="mb-4 d-none d-md-block">
-                <strong>The most comprehensive tutorial for the Bootstrap 4. Loved by over 500 000 users. Video and written versions
-                  available. Create your own, stunning website.</strong>
+                <strong></strong>
               </p>
 
-              <a target="_blank" href="https://mdbootstrap.com/bootstrap-tutorial/" class="btn btn-outline-white btn-lg">Start free tutorial
-                <i class="fa fa-graduation-cap ml-2"></i>
+              <a target="_blank" href="#" class="btn btn-outline-white btn-lg">JOIN NOW
+                <i class="fa fa-tumb-up ml-2"></i>
               </a>
             </div>
             <!-- Content -->
@@ -194,42 +191,99 @@
         <div class="row wow fadeIn">
 
           <!--Grid column-->
-          <div class="col-lg-3 col-md-6 mb-4">
+          <div class="col-lg-4 col-md-8 mb-4">
 
             <!--Card-->
-            <div class="card">
+            <md-card>
+            <md-card-area md-inset>
+              <md-card-header>
+                <md-avatar>
+                  <img src="/assets/img/faces/avatar.jpg" alt="Avatar">
+                </md-avatar>
 
-              <!--Card image-->
-              <div class="view overlay">
-                <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/12.jpg" class="card-img-top" alt="">
-                <a>
-                  <div class="mask rgba-white-slight"></div>
-                </a>
-              </div>
-              <!--Card image-->
+                <div class="md-title">Title goes here</div>
+                <div class="md-subhead">Subtitle here</div>
+              </md-card-header>
 
-              <!--Card content-->
-              <div class="card-body text-center">
-                <!--Category & Title-->
-                <a href="" class="grey-text">
-                  <h5>Shirt</h5>
-                </a>
-                <h5>
-                  <strong>
-                    <a href="" class="dark-grey-text">Denim shirt
-                      <span class="badge badge-pill danger-color">NEW</span>
-                    </a>
-                  </strong>
-                </h5>
+              <md-card-media>
+                <img src="/assets/img/cover.jpg" alt="cover">
+              </md-card-media>
 
-                <h4 class="font-weight-bold blue-text">
-                  <strong>120$</strong>
-                </h4>
+              <md-card-content>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio itaque ea nostrum.
+              </md-card-content>
+              </md-card-area>
 
-              </div>
-              <!--Card content-->
 
-            </div>
+              <md-card-content md-alignment="right">
+                  <md-menu>
+                    <md-button class="md-icon-button" md-menu-trigger>
+                      <md-icon>menu</md-icon>
+                    </md-button>
+                    <md-menu-content>
+                      <md-menu-item>
+                        <md-icon>hearth</md-icon>
+                        <span>Gigs i love</span>
+                      </md-menu-item>
+
+                      <md-menu-item>
+                        <md-icon>phone</md-icon>
+                        <span>My Item 2</span>
+                      </md-menu-item>
+
+                      <md-menu-item>
+                        <md-icon>add</md-icon>
+                        <span>Creat list</span>
+                      </md-menu-item>
+                    </md-menu-content>
+                  </md-menu>
+
+                <md-menu md-size="big" md-direction="bottom-end">
+                  <md-button class="md-icon-button" md-menu-trigger>
+                    <md-icon>favorite</md-icon>
+                  </md-button>
+                </md-menu>
+              </md-card-content>
+
+              <md-card-actions>
+                <md-button>Action</md-button>
+                <md-button>Action</md-button>
+              </md-card-actions>
+              
+            </md-card>
+
+            <!--Card-->
+
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-lg-4 col-md-8 mb-4">
+
+            <!--Card-->
+            <md-card>
+              <md-card-header>
+                <md-avatar>
+                  <img src="/assets/img/faces/avatar.jpg" alt="Avatar">
+                </md-avatar>
+
+                <div class="md-title">Title goes here</div>
+                <div class="md-subhead">Subtitle here</div>
+              </md-card-header>
+
+              <md-card-media>
+                <img src="/assets/img/cover.jpg" alt="cover">
+              </md-card-media>
+
+              <md-card-content>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio itaque ea nostrum.
+              </md-card-content>
+
+              <md-card-actions>
+                <md-button>Action</md-button>
+                <md-button>Action</md-button>
+              </md-card-actions>
+            </md-card>
             <!--Card-->
 
           </div>
@@ -239,79 +293,29 @@
           <div class="col-lg-3 col-md-6 mb-4">
 
             <!--Card-->
-            <div class="card">
+            <md-card>
+              <md-card-header>
+                <md-avatar>
+                  <img src="/assets/img/faces/avatar.jpg" alt="Avatar">
+                </md-avatar>
 
-              <!--Card image-->
-              <div class="view overlay">
-                <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/13.jpg" class="card-img-top" alt="">
-                <a>
-                  <div class="mask rgba-white-slight"></div>
-                </a>
-              </div>
-              <!--Card image-->
+                <div class="md-title">Title goes here</div>
+                <div class="md-subhead">Subtitle here</div>
+              </md-card-header>
 
-              <!--Card content-->
-              <div class="card-body text-center">
-                <!--Category & Title-->
-                <a href="" class="grey-text">
-                  <h5>Sport wear</h5>
-                </a>
-                <h5>
-                  <strong>
-                    <a href="" class="dark-grey-text">Sweatshirt</a>
-                  </strong>
-                </h5>
+              <md-card-media>
+                <img src="/assets/img/cover.jpg" alt="cover">
+              </md-card-media>
 
-                <h4 class="font-weight-bold blue-text">
-                  <strong>139$</strong>
-                </h4>
+              <md-card-content>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio itaque ea nostrum.
+              </md-card-content>
 
-              </div>
-              <!--Card content-->
-
-            </div>
-            <!--Card-->
-
-          </div>
-          <!--Grid column-->
-
-          <!--Grid column-->
-          <div class="col-lg-3 col-md-6 mb-4">
-
-            <!--Card-->
-            <div class="card">
-
-              <!--Card image-->
-              <div class="view overlay">
-                <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/14.jpg" class="card-img-top" alt="">
-                <a>
-                  <div class="mask rgba-white-slight"></div>
-                </a>
-              </div>
-              <!--Card image-->
-
-              <!--Card content-->
-              <div class="card-body text-center">
-                <!--Category & Title-->
-                <a href="" class="grey-text">
-                  <h5>Sport wear</h5>
-                </a>
-                <h5>
-                  <strong>
-                    <a href="" class="dark-grey-text">Grey blouse
-                      <span class="badge badge-pill primary-color">bestseller</span>
-                    </a>
-                  </strong>
-                </h5>
-
-                <h4 class="font-weight-bold blue-text">
-                  <strong>99$</strong>
-                </h4>
-
-              </div>
-              <!--Card content-->
-
-            </div>
+              <md-card-actions>
+                <md-button>Action</md-button>
+                <md-button>Action</md-button>
+              </md-card-actions>
+            </md-card>
             <!--Card-->
 
           </div>
@@ -321,37 +325,29 @@
           <div class="col-lg-3 col-md-6 mb-4">
 
             <!--Card-->
-            <div class="card">
+            <md-card>
+              <md-card-header>
+                <md-avatar>
+                  <img src="/assets/img/faces/avatar.jpg" alt="Avatar">
+                </md-avatar>
 
-              <!--Card image-->
-              <div class="view overlay">
-                <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/15.jpg" class="card-img-top" alt="">
-                <a>
-                  <div class="mask rgba-white-slight"></div>
-                </a>
-              </div>
-              <!--Card image-->
+                <div class="md-title">Title goes here</div>
+                <div class="md-subhead">Subtitle here</div>
+              </md-card-header>
 
-              <!--Card content-->
-              <div class="card-body text-center">
-                <!--Category & Title-->
-                <a href="" class="grey-text">
-                  <h5>Outwear</h5>
-                </a>
-                <h5>
-                  <strong>
-                    <a href="" class="dark-grey-text">Black jacket</a>
-                  </strong>
-                </h5>
+              <md-card-media>
+                <img src="/assets/img/cover.jpg" alt="cover">
+              </md-card-media>
 
-                <h4 class="font-weight-bold blue-text">
-                  <strong>219$</strong>
-                </h4>
+              <md-card-content>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio itaque ea nostrum.
+              </md-card-content>
 
-              </div>
-              <!--Card content-->
-
-            </div>
+              <md-card-actions>
+                <md-button>Action</md-button>
+                <md-button>Action</md-button>
+              </md-card-actions>
+            </md-card>
             <!--Card-->
 
           </div>
@@ -650,6 +646,14 @@
 
 export default {
   name: 'HomeDashboard',
+   methods: {
+      sendMessage () {
+        window.alert('Send a message...')
+      },
+      doACall () {
+        window.alert('Calling someone...')
+      }
+    },
   components: {
   }
 }
@@ -681,5 +685,49 @@ html,
         height:60vh;
       }
     }
+
+    .md-card {
+    width: 320px;
+    margin: 4px;
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .md-card-example {
+    .md-subhead {
+      .md-icon {
+        $size: 16px;
+
+        width: $size;
+        min-width: $size;
+        height: $size;
+        font-size: $size !important;
+      }
+
+      span {
+        vertical-align: middle;
+      }
+    }
+
+    .card-reservation {
+      margin-top: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      .md-icon {
+        margin: 8px;
+      }
+    }
+
+    .md-button-group {
+      display: flex;
+
+      .md-button {
+        min-width: 60px;
+        border-radius: 2px;
+      }
+    }
+  }
 
 </style>
