@@ -9,14 +9,14 @@
       </div>
       <div class="sidebar-wrapper">
         <ul class="nav">
-          <li class="nav-item active  ">
-            <a class="nav-link" href="./dashboard.html">
+          <li class="nav-item active" v-on:click="side('homeDash')">
+            <a class="nav-link" href="#">
               <i class="material-icons">dashboard</i>
               <p>Dashboard</p>
             </a>
           </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="./user.html">
+          <li class="nav-item " v-on:click="side('message')">
+            <a class="nav-link" href="#">
               <i class="fa fa-envelope"></i>
               <p>Messager</p>
             </a>
@@ -65,7 +65,7 @@
       <nav class="navbar navbar-expand-lg navbar-transparent navbar-absolute fixed-top ">
         <div class="container-fluid">
           <div class="navbar-wrapper">
-            <a class="navbar-brand" href="#">Dashboard</a>
+            <a class="navbar-brand" href="#" v-on:click="side('homeDash')">Dashboard</a>
           </div>
           <button class="navbar-toggler" type="button" data-toggle="collapse" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
             <span class="sr-only">Toggle navigation</span>
@@ -85,7 +85,7 @@
             </form>
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="#" v-on:click="side('homeDash')">
                   <i class="material-icons">dashboard</i>
                   <p class="d-lg-none d-md-block">
                     Stats
@@ -123,7 +123,12 @@
       <!-- End Navbar -->
       <div class="content">
         <div>
+          <div v-if="homesDash">
           <HomeDashboard></HomeDashboard>
+      </div>
+       <div v-if="messager">
+          <Message></Message>
+      </div>
         </div>
       </div>
       <footer class="footer">
@@ -173,14 +178,31 @@ import Message from './message.vue'
 
 export default {
   name: 'CustDashboard',
-  data: () => ({
-      boolean: true
-    }),
-  components: {
-  HomeDashboard,
-  Message
-  }
-}
+  props: {
+    homeDash: Boolean,
+    message: Boolean,
+    view: Boolean
+    },
+    data() {
+        return {
+        homesDash: true,
+        messager: false,
+        boolean: true
+
+        }
+          },
+        methods: {
+        side(show)
+          {
+           this.view = (show == 'homeDash')?this.homesDash=true:this.homesDash=false;
+           this.view = (show == 'message')?this.messager=true:this.messager=false;
+          }
+        },
+        components: {
+        HomeDashboard,
+        Message
+        }
+      }
 </script>
 
 <style  >
