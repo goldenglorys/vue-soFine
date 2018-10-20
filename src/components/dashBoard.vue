@@ -4,7 +4,7 @@
     <div class="sidebar" data-color="purple" data-background-color="white" data-image="./assets/img/sidebar-1.jpg">
       <div class="logo">
         <a href="http://www.creative-tim.com" class="simple-text logo-normal">
-          Creative Tim
+          <strong>SoFine</strong>
         </a>
       </div>
       <div class="sidebar-wrapper">
@@ -65,7 +65,7 @@
       <nav class="navbar navbar-expand-lg navbar-transparent navbar-absolute fixed-top ">
         <div class="container-fluid">
           <div class="navbar-wrapper">
-            <a class="navbar-brand" href="#" v-on:click="side('homeDash')">Dashboard</a>
+            <a class="navbar-brand" href="#"><strong>{{ title }}</strong></a>
           </div>
           <button class="navbar-toggler" type="button" data-toggle="collapse" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
             <span class="sr-only">Toggle navigation</span>
@@ -181,21 +181,22 @@ export default {
   props: {
     homeDash: Boolean,
     message: Boolean,
-    view: Boolean
+    view: Boolean,
+
     },
     data() {
         return {
         homesDash: true,
         messager: false,
-        boolean: true
-
+        boolean: true,
+        title: "Dashboard"
         }
           },
         methods: {
         side(show)
           {
-           this.view = (show == 'homeDash')?this.homesDash=true:this.homesDash=false;
-           this.view = (show == 'message')?this.messager=true:this.messager=false;
+            if(show == 'homeDash'){this.homesDash=true; this.title= "Dashboard"}else{this.homesDash=false}
+            if(show == 'message'){this.messager=true; this.title="Message"}else{this.messager=false}
           }
         },
         components: {

@@ -137,8 +137,6 @@
                 </div>
       </md-app-content>
     </md-app>
-    </div>
-      </div>
   </div>
 </template>
 
