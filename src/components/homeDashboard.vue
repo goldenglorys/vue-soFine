@@ -156,18 +156,18 @@
           <!-- Links -->
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="#" v-on:click="side('categAll')">All
+              <a class="nav-link" v-on:click="side('categAll')">All
                 <span class="sr-only">(current)</span>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#" v-on:click="side('categCorp')">Corporate</a>
+              <a class="nav-link" v-on:click="side('categCorp')">Corporate</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#" v-on:click="side('categNative')">Native</a>
+              <a class="nav-link" v-on:click="side('categNative')">Native</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#" v-on:click="side('categSuite')">Suite</a>
+              <a class="nav-link" v-on:click="side('categSuite')">Suite</a>
             </li>
 
           </ul>
@@ -355,7 +355,7 @@ html,
   }
   .md-card-area .photo img{
     width: 100%;
-    height: 180px;
+    height: 200px;
   }
 
   
