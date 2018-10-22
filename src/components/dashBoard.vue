@@ -127,7 +127,10 @@
           <HomeDashboard></HomeDashboard>
       </div>
        <div v-if="messager">
-          <Message></Message>
+          <message></message>
+      </div>
+      <div v-if="productP">
+          <ProductPage></productPage>
       </div>
         </div>
       </div>
@@ -136,22 +139,22 @@
           <nav class="float-left">
             <ul>
               <li>
-                <a href="https://www.creative-tim.com">
-                  Creative Tim
+                <a href="#">
+                  SoFine-Tim
                 </a>
               </li>
               <li>
-                <a href="https://creative-tim.com/presentation">
+                <a href="#">
                   About Us
                 </a>
               </li>
               <li>
-                <a href="http://blog.creative-tim.com">
+                <a href="#">
                   Blog
                 </a>
               </li>
               <li>
-                <a href="https://www.creative-tim.com/license">
+                <a href="#">
                   Licenses
                 </a>
               </li>
@@ -171,8 +174,9 @@
 </template>
 
 <script>
-import HomeDashboard from './homeDashboard.vue'
-import Message from './message.vue'
+        import ProductPage from './product-page.vue'
+        import HomeDashboard from './homeDashboard.vue'
+        import Message from './message.vue'
 
  document.write(new Date().getFullYear())
 
@@ -189,7 +193,8 @@ export default {
         homesDash: true,
         messager: false,
         boolean: true,
-        title: "Dashboard"
+        title: "Dashboard",
+        productP: true
         }
           },
         methods: {
@@ -201,7 +206,8 @@ export default {
         },
         components: {
         HomeDashboard,
-        Message
+        Message,
+        ProductPage
         }
       }
 </script>
