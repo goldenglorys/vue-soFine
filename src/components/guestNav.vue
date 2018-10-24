@@ -1,7 +1,7 @@
 
 <template>
   <div>
-  <nav class="navbars fixed-top navbars-expand-lg navbars-dark bg-secondary scrolling-navbars ">
+  <nav class="navbar fixed-top navbars-expand-lg navbars-light white scrolling-navbar">
     <div class="container">
 
       <a class="navbars-brand" href="#" target="_blank">

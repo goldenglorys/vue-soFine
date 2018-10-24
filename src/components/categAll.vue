@@ -23,7 +23,7 @@
               </md-card-header>
 
               <md-card-media class="photo">
-                <img class="card-img-top" src="/assets2/img/categories/cat1.jpg" alt="cover">
+              <router-link to="/custDash">  <img class="card-img-top" src="/assets2/img/categories/cat1.jpg" alt="cover"> </router-link>
               </md-card-media>
 
               <md-card-content>
@@ -83,7 +83,7 @@
               </md-card-header>
 
               <md-card-media class="photo">
-                <img src="/assets2/img/categories/cat15.jpg" alt="cover">
+               <router-link to="/productPage"> <img src="/assets2/img/categories/cat15.jpg" alt="cover"></router-link>
               </md-card-media>
 
               <md-card-content>
@@ -141,8 +141,8 @@
                 <div class="md-subhead">Native tailor</div>
               </md-card-header>
 
-              <md-card-media class="photo">
-                 <img src="/assets2/img/categories/cat4.jpg" alt="cover">
+              <md-card-media class="photo" >
+                 <img v-on:click="prod" src="/assets2/img/categories/cat4.jpg" alt="cover">
               </md-card-media>
 
               <md-card-content>
@@ -537,19 +537,31 @@
 </template>
 
 <script>
+import ProductPage from "./product-page.vue"
  document.write(new Date().getFullYear())
 
 export default {
   name: 'CategAll',
+  props: {
+    },
+    data() {
+        return {
+        homesDash: true,
+        title: "",
+        productP: false
+        }
+          },
    methods: {
       sendMessage () {
         window.alert('Send a message...')
       },
       doACall () {
         window.alert('Calling someone...')
-      }
+      },
+      
     },
   components: {
+    ProductPage
   }
 }
 </script>

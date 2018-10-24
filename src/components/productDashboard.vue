@@ -85,7 +85,7 @@
             </form>
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link" href="#" v-on:click="side('homeDash')">
+                <a class="nav-link" v-on:click="side('homeDash')">
                   <i class="material-icons">dashboard</i>
                   <p class="d-lg-none d-md-block">
                     Stats
@@ -122,18 +122,17 @@
       </nav>
       <!-- End Navbar -->
       <div class="content">
-        <div>
+          <div v-if="productP">
+            <ProductPage></ProductPage>
+          </div>  
           <div v-if="homesDash">
-          <HomeDashboard></HomeDashboard>
-      </div>
-       <div v-if="messager">
-          <message></message>
-      </div>
-      <div v-if="productP">
-          <ProductPage></ProductPage>
-      </div>
+            <HomeDashboard></HomeDashboard>
+          </div>
+          <div v-if="messager">
+             <message></message>
+          </div>
      
-        </div>
+        
       </div>
       <footer class="footer">
         <div class="container-fluid">
@@ -182,7 +181,7 @@
  document.write(new Date().getFullYear())
 
 export default {
-  name: 'CustDashboard',
+  name: 'ProductDashboard',
   props: {
     homeDash: Boolean,
     message: Boolean,
@@ -191,17 +190,17 @@ export default {
     },
     data() {
         return {
-        homesDash: true,
+        homesDash: false,
         messager: false,
         boolean: true,
         title: "Dashboard",
-        productP: false
+        productP: true
         }
           },
         methods: {
         side(show)
           {
-            if(show == 'homeDash'){this.homesDash=true; this.title= "Dashboard"}else{this.homesDash=false}
+            if(show == 'homeDash'){this.homesDash=true; this.productP=false; this.title= "Dashboard"}else{this.homesDash=false}
             if(show == 'message'){this.messager=true; this.title="Message"}else{this.messager=false}
           }
         },

@@ -5,6 +5,8 @@ import Sign_In from './components/signIn.vue'
 import CustDashboard from './components/dashBoard.vue'
 import GuestNav from './components/guestNav.vue'
 import HomeDashboard from './components/homeDashboard.vue'
+import ProductDashboard from './components/productDashboard.vue'
+import ProductPage from './components/product-page.vue'
 
 vue.use(Router)
 
@@ -34,6 +36,16 @@ routes: [
 		path: '/homedash',
 		name: 'homedash',
 		component: HomeDashboard
+	},
+	{
+		path: '/productDash',
+		name: 'productDash',
+		component: ProductDashboard
+	},
+	{
+		path: '/productPage',
+		name: 'productPage',
+		component: ProductPage
 	}
 ]
 	})
