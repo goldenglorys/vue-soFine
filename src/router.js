@@ -7,6 +7,7 @@ import GuestNav from './components/guestNav.vue'
 import HomeDashboard from './components/homeDashboard.vue'
 import ProductDashboard from './components/productDashboard.vue'
 import ProductPage from './components/product-page.vue'
+import Category from './components/category.vue'
 
 vue.use(Router)
 
@@ -46,6 +47,11 @@ routes: [
 		path: '/productPage',
 		name: 'productPage',
 		component: ProductPage
+	},
+	{
+		path: '/category',
+		name: 'category',
+		component: Category
 	}
 ]
 	})

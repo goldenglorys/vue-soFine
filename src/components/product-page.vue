@@ -6,8 +6,8 @@
     <div class="container">
 
       <!-- Brand -->
-      <a class="navbars-brand waves-effect" href="https://mdbootstrap.com/material-design-for-bootstrap/" target="_blank">
-        <strong class="blue-text">MDB</strong>
+      <a class="navbars-brand waves-effect" href="#" >
+        <strong class="blue-text">SoFine</strong>
       </a>
 
       <!-- Collapse -->
@@ -22,18 +22,19 @@
         <!-- Left -->
         <ul class="navbars-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link waves-effect" href="#">Home
+            <router-link to="/custDash" class="nav-link waves-effect">Dashboard
               <span class="sr-only">(current)</span>
-            </a>
+            </router-link>
           </li>
           <li class="nav-item">
-            <a class="nav-link waves-effect" href="https://mdbootstrap.com/material-design-for-bootstrap/" target="_blank">About MDB</a>
+            <router-link to="/category" class="nav-link waves-effect" href="#" >Categories
+            </router-link>
           </li>
           <li class="nav-item">
-            <a class="nav-link waves-effect" href="https://mdbootstrap.com/getting-started/" target="_blank">Free download</a>
+            <a class="nav-link waves-effect" href="#">Special Request</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link waves-effect" href="https://mdbootstrap.com/bootstrap-tutorial/" target="_blank">Free tutorials</a>
+            <a class="nav-link waves-effect" href="#" target="_blank">Recomendation</a>
           </li>
         </ul>
 
@@ -57,9 +58,9 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="https://github.com/mdbootstrap/bootstrap-material-design" class="nav-link border border-light rounded waves-effect"
+            <a href="#" class="nav-link border border-light rounded waves-effect"
               target="_blank">
-              <i class="fa fa-github mr-2"></i>MDB GitHub
+              <i class="fa fa-user"></i>Profile
             </a>
           </li>
         </ul>
@@ -80,7 +81,7 @@
         <!--Grid column-->
         <div class="col-md-6 mb-4">
 
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/14.jpg" class="img-fluid" alt="">
+          <img src="/assets2/img/categories/cat32.jpg" class="img-fluid" alt="">
 
         </div>
         <!--Grid column-->
