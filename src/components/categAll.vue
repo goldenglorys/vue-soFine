@@ -23,7 +23,7 @@
               </md-card-header>
 
               <md-card-media class="photo">
-              <router-link to="/custDash">  <img class="card-img-top" src="/assets2/img/categories/cat1.jpg" alt="cover"> </router-link>
+              <router-link to="/productPage">  <img class="card-img-top" src="/assets2/img/categories/cat1.jpg" alt="cover"> </router-link>
               </md-card-media>
 
               <md-card-content>
@@ -142,7 +142,7 @@
               </md-card-header>
 
               <md-card-media class="photo" >
-                 <img v-on:click="prod" src="/assets2/img/categories/cat4.jpg" alt="cover">
+                 <router-link to="/productPage"> <img src="/assets2/img/categories/cat4.jpg" alt="cover"></router-link>
               </md-card-media>
 
               <md-card-content>
@@ -201,7 +201,7 @@
               </md-card-header>
 
               <md-card-media class="photo">
-                 <img src="/assets2/img/categories/cat17.jpg" alt="cover">
+                 <router-link to="/productPage"> <img src="/assets2/img/categories/cat17.jpg" alt="cover"></router-link>
               </md-card-media>
 
               <md-card-content>
@@ -267,7 +267,7 @@
               </md-card-header>
 
               <md-card-media class="photo">
-                 <img src="/assets2/img/categories/cat22.jpg" alt="cover">
+                <router-link to="/productPage"> <img src="/assets2/img/categories/cat22.jpg" alt="cover"></router-link>
               </md-card-media>
 
               <md-card-content>
@@ -327,7 +327,7 @@
               </md-card-header>
 
               <md-card-media class="photo">
-                 <img src="/assets2/img/categories/cat26.jpg" alt="cover">
+                 <router-link to="/productPage"> <img src="/assets2/img/categories/cat26.jpg" alt="cover"></router-link>
               </md-card-media>
 
               <md-card-content>
@@ -386,7 +386,7 @@
               </md-card-header>
 
               <md-card-media class="photo">
-                 <img src="/assets2/img/categories/cat48.jpg" alt="cover">
+                 <router-link to="/productPage"> <img src="/assets2/img/categories/cat48.jpg" alt="cover"></router-link>
               </md-card-media>
 
               <md-card-content>
@@ -445,7 +445,7 @@
               </md-card-header>
 
               <md-card-media class="photo">
-                 <img src="/assets2/img/categories/cat32.jpg" alt="cover">
+                 <router-link to="/productPage"> <img src="/assets2/img/categories/cat32.jpg" alt="cover"></router-link>
               </md-card-media>
 
               <md-card-content>

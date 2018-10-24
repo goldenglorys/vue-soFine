@@ -21,8 +21,8 @@
               <p>Messager</p>
             </a>
           </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="./tables.html">
+          <li class="nav-item " v-on:click="side('categ')">
+            <a class="nav-link" href="#">
               <i class="fa fa-tag"></i>
               <p>Categories</p>
             </a>
@@ -132,6 +132,9 @@
       <div v-if="productP">
           <ProductPage></ProductPage>
       </div>
+      <div v-if="catego">
+          <Category></Category>
+      </div>
      
         </div>
       </div>
@@ -177,6 +180,7 @@
 <script>
         import ProductPage from './product-page.vue'
         import HomeDashboard from './homeDashboard.vue'
+        import Category from './category.vue'
         import Message from './message.vue'
 
  document.write(new Date().getFullYear())
@@ -187,6 +191,7 @@ export default {
     homeDash: Boolean,
     message: Boolean,
     view: Boolean,
+    categ: Boolean
 
     },
     data() {
@@ -195,7 +200,8 @@ export default {
         messager: false,
         boolean: true,
         title: "Dashboard",
-        productP: false
+        productP: false,
+        catego:false
         }
           },
         methods: {
@@ -203,12 +209,14 @@ export default {
           {
             if(show == 'homeDash'){this.homesDash=true; this.title= "Dashboard"}else{this.homesDash=false}
             if(show == 'message'){this.messager=true; this.title="Message"}else{this.messager=false}
+            if(show == 'categ'){this.catego=true; this.title="Categories"}else{this.catego=false}
           }
         },
         components: {
         HomeDashboard,
         Message,
-        ProductPage
+        ProductPage,
+        Category
         }
       }
 </script>

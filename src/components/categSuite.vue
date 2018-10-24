@@ -23,7 +23,7 @@
               </md-card-header>
 
               <md-card-media class="photo">
-                <img class="card-img-top" src="/assets2/img/categories/cat29.jpg" alt="cover">
+                <router-link to="/productPage"> <img src="/assets2/img/categories/cat29.jpg" alt="cover"></router-link>
               </md-card-media>
 
               <md-card-content>
@@ -83,7 +83,7 @@
               </md-card-header>
 
               <md-card-media class="photo">
-                <img src="/assets2/img/categories/cat30.jpg" alt="cover">
+                <router-link to="/productPage"> <img src="/assets2/img/categories/cat30.jpg" alt="cover"></router-link>
               </md-card-media>
 
               <md-card-content>
@@ -142,7 +142,7 @@
               </md-card-header>
 
               <md-card-media class="photo">
-                 <img src="/assets2/img/categories/cat31.jpg" alt="cover">
+                 <router-link to="/productPage"> <img src="/assets2/img/categories/cat31.jpg" alt="cover"></router-link>
               </md-card-media>
 
               <md-card-content>
@@ -201,7 +201,7 @@
               </md-card-header>
 
               <md-card-media class="photo">
-                 <img src="/assets2/img/categories/cat32.jpg" alt="cover">
+                 <router-link to="/productPage"> <img src="/assets2/img/categories/cat32.jpg" alt="cover"></router-link>
               </md-card-media>
 
               <md-card-content>
@@ -267,7 +267,7 @@
               </md-card-header>
 
               <md-card-media class="photo">
-                 <img src="/assets2/img/categories/cat32.jpg" alt="cover">
+                 <router-link to="/productPage"> <img src="/assets2/img/categories/cat32.jpg" alt="cover"></router-link>
               </md-card-media>
 
               <md-card-content>
@@ -327,7 +327,7 @@
               </md-card-header>
 
               <md-card-media class="photo">
-                 <img src="/assets2/img/categories/cat33.jpg" alt="cover">
+                 <router-link to="/productPage"> <img src="/assets2/img/categories/cat33.jpg" alt="cover"></router-link>
               </md-card-media>
 
               <md-card-content>
@@ -386,7 +386,7 @@
               </md-card-header>
 
               <md-card-media class="photo">
-                 <img src="/assets2/img/categories/cat34.jpg" alt="cover">
+                 <router-link to="/productPage"> <img src="/assets2/img/categories/cat34.jpg" alt="cover"></router-link>
               </md-card-media>
 
               <md-card-content>
@@ -445,7 +445,7 @@
               </md-card-header>
 
               <md-card-media class="photo">
-                 <img src="/assets2/img/categories/cat36.jpg" alt="cover">
+                 <router-link to="/productPage"> <img src="/assets2/img/categories/cat36.jpg" alt="cover"></router-link>
               </md-card-media>
 
               <md-card-content>
