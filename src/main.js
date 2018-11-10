@@ -1,9 +1,13 @@
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
+// import 'bootstrap-css-only/css/bootstrap.min.css'; 
+// import 'mdbvue/build/css/mdb.css';
+
 import VueMaterial from 'vue-material'
 import 'vue-material/dist/vue-material.min.css'
-import "vue-material/dist/theme/default.css";
+import "vue-material/dist/theme/black-green-light.css";
+
 
 
 Vue.use(VueMaterial)
