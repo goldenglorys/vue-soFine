@@ -2987,17 +2987,10 @@ html,
     height: 180px;
   }
 
-  .view{
-  height: 700px;
-  }
   .h4-responsive{
     padding-bottom: 2px;
   }
 
-.card{
-  height: 530px;
-  margin:7px;
-}
 .rating{
 display: inline;
 }
