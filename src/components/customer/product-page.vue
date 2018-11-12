@@ -88,26 +88,28 @@
                 <div class="m-3">
                   <h2><b>Get your job done  by experts</b></h2>
 
-                      <div class="mb-2">
+                      <div class="mb-2 mt-4">
                         <img src="https://mdbootstrap.com/img/Photos/Avatars/img(31).jpg" class="img-fluid z-depth-1 rounded-circle myPix"
                         alt="Responsive image">
-                        <div class="md-title">Area 51</div>
-                        <div class="md-subhead mt-1">Suite tailor</div>
-                      </div>
+                        <div class="tins">
+                            <div card-header-pillss="md-title"><h4><b>Area 51</b></h4></div>
+                            <div class="md-subhead mt-2">Suite tailor</div>
+                        </div>
 
-                  <!--Rating-->
-                      <div class="rating text-primary mb-4">
-                        
-                          <i class="fa fa-star"></i>
-                          <i class="fa fa-star"></i>
-                        
-                          <i class="fa fa-star"></i>
-                       
-                          <i class="fa fa-star"></i>
-                       
-                          <i class="fa fa-star"></i>
-                          <span>  (167)  7 Orders in Queue</span>
-                      </div>
+                      <!--Rating-->
+                          <div class="rating text-primary mt-4">
+                            
+                              <i class="fa fa-star"></i>
+                              <i class="fa fa-star"></i>
+                            
+                              <i class="fa fa-star"></i>
+                           
+                              <i class="fa fa-star"></i>
+                           
+                              <i class="fa fa-star"></i>
+                              <span>  (167)  7 Orders in Queue</span>
+                          </div>
+                        </div>
                 </div>
                 <hr>
                 <div class="card-body">
@@ -170,8 +172,8 @@
             <form class="d-flex justify-content-left">
               <!-- Default input -->
               <input type="number" value="1" aria-label="Search" class="form-control" style="width: 100px">
-              <button class="btn btn-primary btn-md my-0 p" type="submit">Add to cart
-                <i class="fa fa-shopping-cart ml-1"></i>
+              <button class="btn btn-primary btn-md my-0 p" type="submit">Continue
+                <i class="fa fa-check-square-o ml-1"></i>
               </button>
 
             </form>
@@ -334,12 +336,14 @@
                       <div class="mb-2">
                         <img src="https://mdbootstrap.com/img/Photos/Avatars/img(31).jpg" class="img-fluid z-depth-1 rounded-circle myPix"
                         alt="Responsive image">
-                        <div class="md-title">Area 51</div>
-                        <div class="md-subhead mt-1">Suite tailor</div>
+                         <div class="tins">
+                            <div card-header-pillss="md-title mt-3"><h4><b>Area 51</b></h4></div>
+                            <div class="md-subhead mt-2">Suite tailor</div>
+                        </div>
                       </div>
 
                   <!--Rating-->
-                      <div class="rating text-primary mb-4">
+                      <div class="rating text-primary mt-3">
                         
                           <i class="fa fa-star"></i>
                           <i class="fa fa-star"></i>
@@ -351,7 +355,24 @@
                           <i class="fa fa-star"></i>
                           <span>  (167)  7 Orders in Queue</span>
                       </div>
-
+                     <div><button type="button" class="btn btn-outline-success waves-effect mt-3">Contact Me</button></div>
+                </div>
+                <hr>
+                <div class="row ml-2 mb-3">
+                <div class="col-md-3">
+                 <p>From</p>
+                 <b>Olive</b>
+                </div>
+                <div class="col-md-3">
+                 <p>Member Since</p>
+                 <b>Omega 13 BCE</b>
+                </div>
+                <div class="col-md-3">
+                 hifshif
+                </div>
+                <div class="col-md-3">
+                 hifshif
+                </div>
                 </div>
               </div>
 
@@ -360,63 +381,351 @@
 </div>
 <!--Grid row-->
 
-
-
-      <!--Grid row-->
-      <div class="row d-flex justify-content-center wow fadeIn">
-
-        <!--Grid column-->
-        <div class="col-md-6 text-center">
-
-          <h4 class="my-4 h4">Additional information</h4>
-
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus suscipit modi sapiente illo soluta odit voluptates,
-            quibusdam officia. Neque quibusdam quas a quis porro? Molestias illo neque eum in laborum.</p>
-
-        </div>
-        <!--Grid column-->
-
-      </div>
-      <!--Grid row-->
-
-      <!--Grid row-->
+          <!--Grid row-->
       <div class="row wow fadeIn">
 
         <!--Grid column-->
-        <div class="col-lg-4 col-md-12 mb-4">
+        <div class="col-md-7 mb-4">
 
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/11.jpg" class="img-fluid" alt="">
+              <div class="card">
+                <div class="m-3">
+                  <h4><b>Reviews</b><i class="fa fa-star ml-2 text-success"></i><b class="ml-1 text-success">5</b></h4>
+                  <hr>
+                      <div class="media">
+                        <img class="d-flex mr-3 rounded-circle" src="https://mdbootstrap.com/img/Photos/Others/placeholder4.jpg" alt="Generic placeholder image">
+                        <div class="media-body">
+                          <h5 class="mt-0 font-weight-bold">Media heading<i class="fa fa-star ml-2 text-success"></i><b class="ml-1 text-success">5</b></h5>
+                          Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in
+                          vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia
+                          congue felis in faucibus.
 
+                          <div class="media mt-4">
+                            <a class="d-flex pr-3" href="#">
+                               <img src="https://mdbootstrap.com/img/Photos/Others/placeholder6.jpg" alt="Generic placeholder image" class="rounded-circle">
+                            </a>
+                            <div class="media-body">
+                              <h5 class="mt-0 font-weight-bold">Consultant's Feedback<i class="fa fa-star ml-2 text-success"></i><b class="ml-1 text-success">5</b></h5>
+                              Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in
+                              vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia
+                              congue felis in faucibus.
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    <hr>  
+                    <div class="media">
+                        <img class="d-flex mr-3 rounded-circle" src="https://mdbootstrap.com/img/Photos/Others/placeholder4.jpg" alt="Generic placeholder image">
+                        <div class="media-body">
+                          <h5 class="mt-0 font-weight-bold">Media heading<i class="fa fa-star ml-2 text-success"></i><b class="ml-1 text-success">5</b></h5>
+                          Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in
+                          vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia
+                          congue felis in faucibus.
+
+                          <div class="media mt-4">
+                            <a class="d-flex pr-3" href="#">
+                              <img src="https://mdbootstrap.com/img/Photos/Others/placeholder6.jpg" alt="Generic placeholder image" class="rounded-circle">
+                            </a>
+                            <div class="media-body">
+                              <h5 class="mt-0 font-weight-bold">Consultant's Feedback<i class="fa fa-star ml-2 text-success"></i><b class="ml-1 text-success">5</b></h5>
+                              Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in
+                              vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia
+                              congue felis in faucibus.
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    <hr>
+                      
+                </div>
+              </div>
         </div>
-        <!--Grid column-->
-
-        <!--Grid column-->
-        <div class="col-lg-4 col-md-6 mb-4">
-
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/12.jpg" class="img-fluid" alt="">
-
-        </div>
-        <!--Grid column-->
-
-        <!--Grid column-->
-        <div class="col-lg-4 col-md-6 mb-4">
-
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/13.jpg" class="img-fluid" alt="">
-
-        </div>
-        <!--Grid column-->
-
       </div>
-      <!--Grid row-->
 
+      <!-- Section: Products v.1 -->
+<section class="text-center my-5">
+
+  <!-- Section heading -->
+  <h2 class="h1-responsive font-weight-bold text-center my-2">Recommended for you in this category</h2>
+<hr>
+  <!-- Grid row -->
+  <div class="row">
+
+    <!-- Grid column -->
+    <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
+      <!-- card cardpannel -->
+      <div class="card cardpannel card-cascade narrower card-ecommerce">
+        <!-- card cardpannel image -->
+        <div class="view views view-cascade overlay">
+          <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/1.jpg" class="card-img-top"
+            alt="sample photo">
+          <a>
+            <div class="mask rgba-white-slight"></div>
+          </a>
+        </div>
+        <!-- card cardpannel image -->
+        <!-- card cardpannel content -->
+        <div class="card-body card-body-cascade text-center">
+          <!-- Category & Title -->
+          <a href="" class="grey-text">
+            <h5>Denim</h5>
+          </a>
+          <h4 class="card-title">
+            <strong>
+              <a href="">Denim trousers</a>
+            </strong>
+          </h4>
+          <!--Rating-->
+          <div class="rating">
+          
+              <i class="fa fa-star"></i>
+          
+          
+              <i class="fa fa-star"></i>
+          
+          
+              <i class="fa fa-star"></i>
+          
+          
+              <i class="fa fa-star"></i>
+          
+          
+              <i class="fa fa-star-o"></i>
+          
+          </div>
+          <!-- Description -->
+          <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit..
+          </p>
+          <!-- card cardpannel footer -->
+          <div class="card-footer px-1">
+            <span class="float-left font-weight-bold">
+              <strong>49$</strong>
+            </span>
+            <span class="float-right">
+              <a data-toggle="tooltip" data-placement="top" title="Add to Cart">
+                <i class="fa fa-shopping-cart grey-text ml-3"></i>
+              </a>
+              <a data-toggle="tooltip" data-placement="top" title="Share">
+                <i class="fa fa-share-alt grey-text ml-3"></i>
+              </a>
+              <a class="active" data-toggle="tooltip" data-placement="top" title="Added to Wishlist">
+                <i class="fa fa-heart ml-3"></i>
+              </a>
+            </span>
+          </div>
+        </div>
+        <!-- card cardpannel content -->
+      </div>
+      <!-- card cardpannel -->
     </div>
+    <!-- Grid column -->
 
+    <!-- Grid column -->
+    <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
+      <!-- card cardpannel -->
+      <div class="card cardpannel card-cascade narrower card-ecommerce">
+        <!-- card cardpannel image -->
+        <div class="view views view-cascade overlay">
+          <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/2.jpg" class="card-img-top"
+            alt="sample photo">
+          <a>
+            <div class="mask rgba-white-slight"></div>
+          </a>
+        </div>
+        <!-- card cardpannel image -->
+        <!-- card cardpannel content -->
+        <div class="card-body card-body-cascade text-center">
+          <!-- Category & Title -->
+          <a href="" class="grey-text">
+            <h5>Shoes</h5>
+          </a>
+          <h4 class="card-title">
+            <strong>
+              <a href="">High heels</a>
+            </strong>
+          </h4>
+          <!--Rating-->
+          <div class="rating">
+           
+              <i class="fa fa-star"></i>
+            
+           
+              <i class="fa fa-star"></i>
+            
+           
+              <i class="fa fa-star"></i>
+           
+           
+              <i class="fa fa-star"></i>
+            
+           
+              <i class="fa fa-star"></i>
+            
+          </div>
+          <!-- Description -->
+          <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
+          </p>
+          <!-- card cardpannel footer -->
+          <div class="card-footer px-1">
+            <span class="float-left font-weight-bold">
+              <strong>89$</strong>
+            </span>
+            <span class="float-right">
+              <a data-toggle="tooltip" data-placement="top" title="Add to Cart">
+                <i class="fa fa-shopping-cart grey-text ml-3"></i>
+              </a>
+              <a data-toggle="tooltip" data-placement="top" title="Share">
+                <i class="fa fa-share-alt grey-text ml-3"></i>
+              </a>
+              <a class="" data-toggle="tooltip" data-placement="top" title="Add to Wishlist">
+                <i class="fa fa-heart grey-text ml-3"></i>
+              </a>
+            </span>
+          </div>
+        </div>
+        <!-- card cardpannel content -->
+      </div>
+      <!-- card cardpannel -->
+    </div>
+    <!-- Grid column -->
 
+    <!-- Grid column -->
+    <div class="col-lg-3 col-md-6 mb-md-0 mb-4">
+      <!-- card cardpannel -->
+      <div class="card cardpannel card-cascade narrower card-ecommerce">
+        <!-- card cardpannel image -->
+        <div class="view views view-cascade overlay">
+          <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/4.jpg" class="card-img-top"
+            alt="sample photo">
+          <a>
+            <div class="mask rgba-white-slight"></div>
+          </a>
+        </div>
+        <!-- card cardpannel image -->
+        <!-- card cardpannel content -->
+        <div class="card-body card-body-cascade text-center">
+          <!-- Category & Title -->
+          <a href="" class="grey-text">
+            <h5>Outwear</h5>
+          </a>
+          <h4 class="card-title">
+            <strong>
+              <a href="">Brown coat</a>
+            </strong>
+          </h4>
+          <!--Rating-->
+          <div class="rating">
+          
+              <i class="fa fa-star"></i>
+            
+          
+              <i class="fa fa-star"></i>
+          
+          
+              <i class="fa fa-star"></i>
+          
+          
+              <i class="fa fa-star"></i>
+          
+          
+              <i class="fa fa-star-half-o"></i>
+          
+          </div>
+          <!-- Description -->
+          <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
+          </p>
+          <!-- card cardpannel footer -->
+          <div class="card-footer px-1">
+            <span class="float-left font-weight-bold">
+              <strong>59$</strong>
+            </span>
+            <span class="float-right">
+              <a data-toggle="tooltip" data-placement="top" title="Add to Cart">
+                <i class="fa fa-shopping-cart grey-text ml-3"></i>
+              </a>
+              <a data-toggle="tooltip" data-placement="top" title="Share">
+                <i class="fa fa-share-alt grey-text ml-3"></i>
+              </a>
+              <a class="" data-toggle="tooltip" data-placement="top" title="Add to Wishlist">
+                <i class="fa fa-heart grey-text ml-3"></i>
+              </a>
+            </span>
+          </div>
+        </div>
+        <!-- card cardpannel content -->
+      </div>
+      <!-- card cardpannel -->
+    </div>
+    <!-- Grid column -->
 
+    <!-- Grid column -->
+    <div class="col-lg-3 col-md-6">
+      <!-- card cardpannel -->
+      <div class="card cardpannel card-cascade narrower card-ecommerce">
+        <!-- card cardpannel image -->
+        <div class="view views view-cascade overlay">
+          <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/3.jpg" class="card-img-top"
+            alt="sample photo">
+          <a>
+            <div class="mask rgba-white-slight"></div>
+          </a>
+        </div>
+        <!-- card cardpannel image -->
+        <!-- card cardpannel content -->
+        <div class="card-body card-body-cascade text-center">
+          <!-- Category & Title -->
+          <a href="" class="grey-text">
+            <h5>Blouses</h5>
+          </a>
+          <h4 class="card-title">
+            <strong>
+              <a href="">Shirt</a>
+            </strong>
+          </h4>
+          <!--Rating-->
+          <div class="rating">
+            
+              <i class="fa fa-star"></i>
+              <i class="fa fa-star"></i>
+            
+              <i class="fa fa-star"></i>
+           
+              <i class="fa fa-star"></i>
+           
+              <i class="fa fa-star-o"></i>
+          </div>
+          <!-- Description -->
+          <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
+          </p>
+          <!-- card cardpannel footer -->
+          <div class="card-footer px-1">
+            <span class="float-left font-weight-bold">
+              <strong>119$</strong>
+            </span>
+            <span class="float-right">
+              <a data-toggle="tooltip" data-placement="top" title="Add to Cart">
+                <i class="fa fa-shopping-cart grey-text ml-3"></i>
+              </a>
+              <a data-toggle="tooltip" data-placement="top" title="Share">
+                <i class="fa fa-share-alt grey-text ml-3"></i>
+              </a>
+              <a class="active" data-toggle="tooltip" data-placement="top" title="Added to Wishlist">
+                <i class="fa fa-heart ml-3"></i>
+              </a>
+            </span>
+          </div>
+        </div>
+        <!-- card cardpannel content -->
+      </div>
+      <!-- card cardpannel -->
+    </div>
+    <!-- Grid column -->
 
+  </div>
+  <!-- Grid row -->
 
-
-
+</section>
+<!--Section: Group of personal card cardpannels-->
+    </div>
 
 
   </main>
@@ -518,16 +827,13 @@ export default {
     list-style-type:none;
     }
     .myPix{
-    width:20%;
-    float:left; 
+    width:19%;
+    float:right; 
     }
-    .md-title{
-    margin-left:100px
+    tins{
+     margin-right:100px;
     }
-    .md-subhead{
-    margin-l:100px;
+    .btn-outline-success{
     }
-    .rating{
-    margin-left:10px;
-    }
+     
 </style>
