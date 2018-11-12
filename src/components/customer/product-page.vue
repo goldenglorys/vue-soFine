@@ -71,6 +71,9 @@
   </nav>
   <!-- navbars -->
 
+
+
+
    <!--Main layout-->
   <main class="mt-5 pt-4">
     <div class="container dark-grey-text mt-5">
@@ -79,17 +82,65 @@
       <div class="row wow fadeIn">
 
         <!--Grid column-->
-        <div class="col-md-6 mb-4">
+        <div class="col-md-7 mb-4">
 
-          <img src="/assets2/img/categories/cat32.jpg" class="img-fluid" alt="">
+              <div class="card">
+                <div class="m-3">
+                  <h2><b>Get your job done  by experts</b></h2>
+
+                      <div class="mb-2">
+                        <img src="https://mdbootstrap.com/img/Photos/Avatars/img(31).jpg" class="img-fluid z-depth-1 rounded-circle myPix"
+                        alt="Responsive image">
+                        <div class="md-title">Area 51</div>
+                        <div class="md-subhead mt-1">Suite tailor</div>
+                      </div>
+
+                  <!--Rating-->
+                      <div class="rating text-primary mb-4">
+                        
+                          <i class="fa fa-star"></i>
+                          <i class="fa fa-star"></i>
+                        
+                          <i class="fa fa-star"></i>
+                       
+                          <i class="fa fa-star"></i>
+                       
+                          <i class="fa fa-star"></i>
+                          <span>  (167)  7 Orders in Queue</span>
+                      </div>
+                </div>
+                <hr>
+                <div class="card-body">
+                  <img src="/assets2/img/categories/cat32.jpg" class="img-fluid" alt="">
+                  <h5 class="card-title">Special title treatment</h5>
+                  <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                  <a href="#!" class="btn btn-primary">Go somewhere</a>
+              </div>
+</div>
 
         </div>
         <!--Grid column-->
 
         <!--Grid column-->
-        <div class="col-md-6 mb-4">
+        <div class="col-md-5   mb-4">
+        <div class="card">
+          <div class="card-header">
 
-          <!--Content-->
+          <ul class="nav nav-pills card-header-pills" id="myTabEx" role="tablist">
+            <li class="nav-item">
+              <a class="nav-link active show" id="home-tab-ex" data-toggle="tab" href="#home-ex" role="tab" aria-controls="home-ex" aria-selected="true">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" id="profile-tab-ex" data-toggle="tab" href="#profile-ex" role="tab" aria-controls="profile-ex" aria-selected="false">Profile</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" id="contact-tab-ex" data-toggle="tab" href="#contact-ex" role="tab" aria-controls="contact-ex" aria-selected="false">Contact</a>
+            </li>
+          </ul>
+          </div>
+<div class="tab-content pt-5 card-body" id="myTabContentEx">
+  <div class="tab-pane fade active show" id="home-ex" role="tabpanel" aria-labelledby="home-tab-ex">
+  <!--Content-->
           <div class="p-4">
 
             <div class="mb-3">
@@ -127,14 +178,189 @@
 
           </div>
           <!--Content-->
+  </div>
+  <div class="tab-pane fade" id="profile-ex" role="tabpanel" aria-labelledby="profile-tab-ex">
+    <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit. Keytar helvetica VHS salvia yr, vero magna velit sapiente labore stumptown. Vegan fanny pack odio cillum wes anderson 8-bit, sustainable jean shorts beard ut DIY ethical culpa terry richardson biodiesel. Art party scenester stumptown, tumblr butcher vero sint qui sapiente accusamus tattooed echo park.</p>
+  </div>
+  <div class="tab-pane fade" id="contact-ex" role="tabpanel" aria-labelledby="contact-tab-ex">
+    <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer, iphone skateboard locavore carles etsy salvia banksy hoodie helvetica. DIY synth PBR banksy irony. Leggings gentrify squid 8-bit cred pitchfork. Williamsburg banh mi whatever gluten-free, carles pitchfork biodiesel fixie etsy retro mlkshk vice blog. Scenester cred you probably haven't heard of them, vinyl craft beer blog stumptown. Pitchfork sustainable tofu synth chambray yr.</p>
+  </div>
+</div>
+</div>
+          <div class="card">
+                <div class="card-header">
+                  <ul class="nav nav-pills card-header-pills">
+                    <li class="nav-item">
+                      <a class="nav-link active" href="#">Active</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Link</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link disabled" href="#">Disabled</a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="card-body">
+                   <!--Content-->
+          <div class="p-4">
 
+            <div class="mb-3">
+              <a href="">
+                <span class="badge purple mr-1">Category 2</span>
+              </a>
+              <a href="">
+                <span class="badge blue mr-1">New</span>
+              </a>
+              <a href="">
+                <span class="badge red mr-1">Bestseller</span>
+              </a>
+            </div>
+
+            <p class="lead">
+              <span class="mr-1">
+                <del>$200</del>
+              </span>
+              <span>$100</span>
+            </p>
+
+            <p class="lead font-weight-bold">Description</p>
+
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et dolor suscipit libero eos atque quia ipsa sint voluptatibus!
+              Beatae sit assumenda asperiores iure at maxime atque repellendus maiores quia sapiente.</p>
+
+            <form class="d-flex justify-content-left">
+              <!-- Default input -->
+              <input type="number" value="1" aria-label="Search" class="form-control" style="width: 100px">
+              <button class="btn btn-primary btn-md my-0 p" type="submit">Add to cart
+                <i class="fa fa-shopping-cart ml-1"></i>
+              </button>
+
+            </form>
+
+          </div>
+          <!--Content-->
+                </div>
+          </div>
         </div>
         <!--Grid column-->
-
+  
       </div>
       <!--Grid row-->
 
-      <hr>
+    
+      <!--Grid row-->
+      <div class="row wow fadeIn">
+
+        <!--Grid column-->
+        <div class="col-md-7 mb-4">
+
+              <div class="card mt-1">
+                 <div class="card-header"><h3><b>About This Gig</b></h3></div>
+                <div class="card-body">
+                  <p>I strive to be the best marketer you'll ever work with. Period.<br> 
+
+                  I'll consult and guide you on how to properly market and promote your work.<br> 
+
+                  Why me? <br>
+
+                  I've been a marketing manager at Google and YouTube, where I've orchestrated major brand campaigns and product launches<br>
+
+                  I was ranked as a Top 7 marketer by Inc Magazine which stated: "If anyone has cracked the code on how to go viral, it's Jon Youshaei. This Wharton alumnus is a creative force who inspires movements for millennials.</p><hr>
+
+                  <div class="table-responsive">
+  <!--Table-->
+  <table class="table table-striped">
+
+    <!--Table head-->
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Description</th>
+        <th>Size</th>
+      </tr>
+    </thead>
+    <!--Table head-->
+
+    <!--Table body-->
+    <tbody>
+      <tr>
+        <th scope="row">1</th>
+        <td>Kate</td>
+        <td>Moss</td>
+      </tr>
+      <tr>
+        <th scope="row">2</th>
+        <td>Anna</td>
+        <td>Wintour</td>
+      </tr>
+      <tr>
+        <th scope="row">4</th>
+        <td>Jerry</td>
+        <td>Horwitz</td>
+      </tr>
+    </tbody>
+    <!--Table body-->
+  </table>
+  <!--Table-->
+  <ul>
+  PS links mentioned above: 
+  <li>- Forbes' top story with 1.4 million views: bit.ly/ForbesTopStory</li>
+  <li>- NPR-ranked graduation speech: bit.ly/NPRrankings</li>
+  <li>- Inc Magazine's Top 7 Marketers: bit.ly/IncTopMarketers</li>
+  <li>- Entrepreneur Magazine Top 10 Marketers: bit.ly/EntTop10</li>
+
+  </ul>
+</div>
+
+                 </div>
+              </div>
+
+        </div>
+        <!--Grid column-->
+</div>
+<!--Grid row-->
+
+
+<!--Grid row-->
+      <div class="row wow fadeIn">
+
+        <!--Grid column-->
+        <div class="col-md-7 mb-4">
+
+              <div class="card mt-1">
+                 <div class="card-header"><h3><b>About The Seller</b></h3></div>
+                <div class="card-body">
+                      <div class="mb-2">
+                        <img src="https://mdbootstrap.com/img/Photos/Avatars/img(31).jpg" class="img-fluid z-depth-1 rounded-circle myPix"
+                        alt="Responsive image">
+                        <div class="md-title">Area 51</div>
+                        <div class="md-subhead mt-1">Suite tailor</div>
+                      </div>
+
+                  <!--Rating-->
+                      <div class="rating text-primary mb-4">
+                        
+                          <i class="fa fa-star"></i>
+                          <i class="fa fa-star"></i>
+                        
+                          <i class="fa fa-star"></i>
+                       
+                          <i class="fa fa-star"></i>
+                       
+                          <i class="fa fa-star"></i>
+                          <span>  (167)  7 Orders in Queue</span>
+                      </div>
+
+                </div>
+              </div>
+
+        </div>
+        <!--Grid column-->
+</div>
+<!--Grid row-->
+
+
 
       <!--Grid row-->
       <div class="row d-flex justify-content-center wow fadeIn">
@@ -184,6 +410,15 @@
       <!--Grid row-->
 
     </div>
+
+
+
+
+
+
+
+
+
   </main>
   <!--Main layout-->
 
@@ -279,5 +514,20 @@ export default {
 </script>
 
 <style>
-
+    li{
+    list-style-type:none;
+    }
+    .myPix{
+    width:20%;
+    float:left; 
+    }
+    .md-title{
+    margin-left:100px
+    }
+    .md-subhead{
+    margin-l:100px;
+    }
+    .rating{
+    margin-left:10px;
+    }
 </style>
