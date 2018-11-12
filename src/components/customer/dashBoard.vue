@@ -183,7 +183,6 @@
         import Category from './category.vue'
         import Message from './message.vue'
 
- document.write(new Date().getFullYear())
 
 export default {
   name: 'customerDashboard',

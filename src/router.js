@@ -17,9 +17,9 @@ import Tables from '@/components/tailor/Tables'
 // import BadGateway from '@/components/tailor/BadGateway'
 // import GuestNav from './components/guestNav.vue'
 // import HomeDashboard from './components/customer/homeDashboard.vue'
-// import ProductDashboard from './components/customer/productDashboard.vue'
-// import ProductPage from './components/customer/product-page.vue'
-// import Category from './components/customer/category.vue'
+import ProductDashboard from './components/customer/productDashboard.vue'
+import ProductPage from './components/customer/product-page.vue'
+import Category from './components/customer/category.vue'
 
 vue.use(Router)
 
@@ -75,21 +75,21 @@ routes: [
 	// 	name: 'homedash',
 	// 	component: HomeDashboard
 	// },
-	// {
-	// 	path: '/productDash',
-	// 	name: 'productDash',
-	// 	component: ProductDashboard
-	// },
-	// {
-	// 	path: '/productPage',
-	// 	name: 'productPage',
-	// 	component: ProductPage
-	// },
-	// {
-	// 	path: '/category',
-	// 	name: 'category',
-	// 	component: Category
-	// },
+	{
+		path: '/productDash',
+		name: 'productDash',
+		component: ProductDashboard
+	},
+	{
+		path: '/productPage',
+		name: 'productPage',
+		component: ProductPage
+	},
+	{
+		path: '/category',
+		name: 'category',
+		component: Category
+	},
 
 
 

@@ -81,7 +81,6 @@
         import CategCorp from './categCorp.vue'
         import CategNative from './categNative.vue'
         import CategSuite from './categSuite.vue' 
-       document.write(new Date().getFullYear())
 
 export default {
   name: 'Category',

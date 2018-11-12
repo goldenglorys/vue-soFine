@@ -178,7 +178,6 @@
         import HomeDashboard from './homeDashboard.vue'
         import Message from './message.vue'
 
- document.write(new Date().getFullYear())
 
 export default {
   name: 'ProductDashboard',

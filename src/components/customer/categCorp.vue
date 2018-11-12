@@ -602,7 +602,6 @@
 </template>
 
 <script>
- document.write(new Date().getFullYear())
 
 export default {
   name: 'CategCorp',

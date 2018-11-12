@@ -55,7 +55,7 @@
                               </a>
                               <h4 class="card-title">
                                 <strong>
-                                  <a href="">Denim trousers</a>
+                                  <router-link to="/productPage">Denim trousers</router-link>
                                 </strong>
                               </h4>
                               <!--Rating-->
@@ -124,7 +124,7 @@
                               </a>
                               <h4 class="card-title">
                                 <strong>
-                                  <a href="">High heels</a>
+                                  <a v-on:click="side('message')">High heels</a>
                                 </strong>
                               </h4>
                               <!--Rating-->

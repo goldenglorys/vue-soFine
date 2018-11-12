@@ -22,7 +22,7 @@
         <!-- Left -->
         <ul class="navbars-nav mr-auto">
           <li class="nav-item active">
-            <router-link to="/custDash" class="nav-link waves-effect">Dashboard
+            <router-link to="/customer-dashboard" class="nav-link waves-effect">Dashboard
               <span class="sr-only">(current)</span>
             </router-link>
           </li>
@@ -254,7 +254,6 @@
 
 <script>
         import CategCorp from './categCorp.vue'
-       document.write(new Date().getFullYear())
 
 export default {
   name: 'ProductPage',
