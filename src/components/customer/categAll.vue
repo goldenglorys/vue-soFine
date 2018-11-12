@@ -36,18 +36,18 @@
                       <div class="row ">
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view                                                                                   view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/1.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -79,7 +79,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit..
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>49$</strong>
@@ -97,26 +97,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/2.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -148,7 +148,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>89$</strong>
@@ -166,26 +166,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-md-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/4.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -217,7 +217,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>59$</strong>
@@ -235,26 +235,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/3.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -280,7 +280,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>119$</strong>
@@ -298,9 +298,9 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
@@ -318,18 +318,18 @@
 
                        <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/1.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -361,7 +361,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit..
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>49$</strong>
@@ -379,26 +379,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/2.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -430,7 +430,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>89$</strong>
@@ -448,26 +448,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-md-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/4.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -499,7 +499,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>59$</strong>
@@ -517,26 +517,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/3.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -562,7 +562,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>119$</strong>
@@ -580,9 +580,9 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
@@ -599,18 +599,18 @@
 
                    <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/1.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -642,7 +642,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit..
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>49$</strong>
@@ -660,26 +660,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/2.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -711,7 +711,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>89$</strong>
@@ -729,25 +729,25 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/3.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -773,7 +773,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>119$</strong>
@@ -791,9 +791,9 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
                        </div>
@@ -850,18 +850,18 @@
                       <div class="row ">
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/1.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -893,7 +893,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit..
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>49$</strong>
@@ -911,26 +911,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/2.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -962,7 +962,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>89$</strong>
@@ -980,26 +980,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-md-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/4.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -1031,7 +1031,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>59$</strong>
@@ -1049,26 +1049,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/3.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -1094,7 +1094,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>119$</strong>
@@ -1112,9 +1112,9 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
@@ -1132,18 +1132,18 @@
 
                        <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/1.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -1175,7 +1175,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit..
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>49$</strong>
@@ -1193,26 +1193,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/2.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -1244,7 +1244,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>89$</strong>
@@ -1262,26 +1262,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-md-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/4.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -1313,7 +1313,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>59$</strong>
@@ -1331,26 +1331,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/3.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -1376,7 +1376,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>119$</strong>
@@ -1394,9 +1394,9 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
@@ -1413,18 +1413,18 @@
 
                    <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/1.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -1456,7 +1456,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit..
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>49$</strong>
@@ -1474,26 +1474,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/2.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -1525,7 +1525,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>89$</strong>
@@ -1543,25 +1543,25 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/3.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -1587,7 +1587,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>119$</strong>
@@ -1605,9 +1605,9 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
                        </div>
@@ -1661,18 +1661,18 @@
                       <div class="row ">
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/1.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -1704,7 +1704,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit..
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>49$</strong>
@@ -1722,26 +1722,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/2.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -1773,7 +1773,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>89$</strong>
@@ -1791,26 +1791,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-md-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/4.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -1842,7 +1842,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>59$</strong>
@@ -1860,26 +1860,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/3.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -1905,7 +1905,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>119$</strong>
@@ -1923,9 +1923,9 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
@@ -1943,18 +1943,18 @@
 
                        <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/1.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -1986,7 +1986,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit..
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>49$</strong>
@@ -2004,26 +2004,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/2.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -2055,7 +2055,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>89$</strong>
@@ -2073,26 +2073,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-md-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/4.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -2124,7 +2124,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>59$</strong>
@@ -2142,26 +2142,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/3.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -2187,7 +2187,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>119$</strong>
@@ -2205,9 +2205,9 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
@@ -2224,18 +2224,18 @@
 
                    <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/1.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -2267,7 +2267,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit..
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>49$</strong>
@@ -2285,26 +2285,26 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
 
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/2.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -2336,7 +2336,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>89$</strong>
@@ -2354,25 +2354,25 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
                         <!-- Grid column -->
                         <div class="col-lg-3 col-md-6">
-                          <!-- Card -->
-                          <div class="card card-cascade narrower card-ecommerce">
-                            <!-- Card image -->
-                            <div class="view view-cascade overlay">
+                          <!-- card cardpannel -->
+                          <div class="card cardpannel card-cascade narrower card-ecommerce">
+                            <!-- card cardpannel image -->
+                            <div class="view views view-cascade overlay">
                               <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/3.jpg" class="card-img-top"
                                 alt="sample photo">
                               <a>
                                 <div class="mask rgba-white-slight"></div>
                               </a>
                             </div>
-                            <!-- Card image -->
-                            <!-- Card content -->
+                            <!-- card cardpannel image -->
+                            <!-- card cardpannel content -->
                             <div class="card-body card-body-cascade text-center">
                               <!-- Category & Title -->
                               <a href="" class="grey-text">
@@ -2398,7 +2398,7 @@
                               <!-- Description -->
                               <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
                               </p>
-                              <!-- Card footer -->
+                              <!-- card cardpannel footer -->
                               <div class="card-footer px-1">
                                 <span class="float-left font-weight-bold">
                                   <strong>119$</strong>
@@ -2416,9 +2416,9 @@
                                 </span>
                               </div>
                             </div>
-                            <!-- Card content -->
+                            <!-- card cardpannel content -->
                           </div>
-                          <!-- Card -->
+                          <!-- card cardpannel -->
                         </div>
                         <!-- Grid column -->
                        </div>
@@ -2454,22 +2454,22 @@
     <!--Grid column-->
     <div class="col-md-12">
 
-      <!--Card group-->
+      <!--card cardpannel group-->
       <div class="card-group">
 
-        <!--Card-->
-        <div class="card card-personal mb-4">
+        <!--card-->
+        <div class="card cardpannel card-personal mb-4">
 
-          <!--Card image-->
-          <div class="view">
-            <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(26).jpg" alt="Card image cap">
+          <!--card cardpannel image-->
+          <div class="view views">
+            <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(26).jpg" alt="card cardpannel image cap">
             <a href="#!">
               <div class="mask rgba-white-slight"></div>
             </a>
           </div>
-          <!--Card image-->
+          <!--card cardpannel image-->
 
-          <!--Card content-->
+          <!--card cardpannel content-->
           <div class="card-body">
             <!--Title-->
             <a>
@@ -2483,24 +2483,24 @@
             <a class="card-meta"><span><i class="fa fa-user"></i>83 Friends</span></a>
             <p class="card-meta float-right">Joined in 2012</p>
           </div>
-          <!--Card content-->
+          <!--card cardpannel content-->
 
         </div>
-        <!--Card-->
+        <!--card-->
 
-        <!--Card-->
-        <div class="card card-personal mb-4">
+        <!--card-->
+        <div class="card cardpannel card-personal mb-4">
 
-          <!--Card image-->
-          <div class="view">
-            <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(27).jpg" alt="Card image cap">
+          <!--card cardpannel image-->
+          <div class="view views">
+            <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(27).jpg" alt="card cardpannel image cap">
             <a href="#!">
               <div class="mask rgba-white-slight"></div>
             </a>
           </div>
-          <!--Card image-->
+          <!--card cardpannel image-->
 
-          <!--Card content-->
+          <!--card cardpannel content-->
           <div class="card-body">
             <!--Title-->
             <a>
@@ -2514,24 +2514,24 @@
             <a class="card-meta"><span><i class="fa fa-user"></i>48 Friends</span></a>
             <p class="card-meta float-right">Joined in 2015</p>
           </div>
-          <!--Card content-->
+          <!--card cardpannel content-->
 
         </div>
-        <!--Card-->
+        <!--card-->
 
-        <!--Card-->
-        <div class="card card-personal mb-4">
+        <!--card-->
+        <div class="card cardpannel card-personal mb-4">
 
-          <!--Card image-->
-          <div class="view">
-            <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(28).jpg" alt="Card image cap">
+          <!--card cardpannel image-->
+          <div class="view views">
+            <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Avatars/img%20(28).jpg" alt="card cardpannel image cap">
             <a href="#!">
               <div class="mask rgba-white-slight"></div>
             </a>
           </div>
-          <!--Card image-->
+          <!--card cardpannel image-->
 
-          <!--Card content-->
+          <!--card cardpannel content-->
           <div class="card-body">
             <!--Title-->
             <a>
@@ -2545,13 +2545,13 @@
             <a class="card-meta"><span><i class="fa fa-user"></i>127 Friends</span></a>
             <p class="card-meta float-right">Joined in 2014</p>
           </div>
-          <!--Card content-->
+          <!--card cardpannel content-->
 
         </div>
-        <!--Card-->
+        <!--card-->
 
       </div>
-      <!--Card group-->
+      <!--card cardpannel group-->
 
     </div>
     <!--Grid column-->
@@ -2578,18 +2578,18 @@
 
     <!-- Grid column -->
     <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-      <!-- Card -->
-      <div class="card card-cascade narrower card-ecommerce">
-        <!-- Card image -->
-        <div class="view view-cascade overlay">
+      <!-- card cardpannel -->
+      <div class="card cardpannel card-cascade narrower card-ecommerce">
+        <!-- card cardpannel image -->
+        <div class="view views view-cascade overlay">
           <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/1.jpg" class="card-img-top"
             alt="sample photo">
           <a>
             <div class="mask rgba-white-slight"></div>
           </a>
         </div>
-        <!-- Card image -->
-        <!-- Card content -->
+        <!-- card cardpannel image -->
+        <!-- card cardpannel content -->
         <div class="card-body card-body-cascade text-center">
           <!-- Category & Title -->
           <a href="" class="grey-text">
@@ -2621,7 +2621,7 @@
           <!-- Description -->
           <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit..
           </p>
-          <!-- Card footer -->
+          <!-- card cardpannel footer -->
           <div class="card-footer px-1">
             <span class="float-left font-weight-bold">
               <strong>49$</strong>
@@ -2639,26 +2639,26 @@
             </span>
           </div>
         </div>
-        <!-- Card content -->
+        <!-- card cardpannel content -->
       </div>
-      <!-- Card -->
+      <!-- card cardpannel -->
     </div>
     <!-- Grid column -->
 
     <!-- Grid column -->
     <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
-      <!-- Card -->
-      <div class="card card-cascade narrower card-ecommerce">
-        <!-- Card image -->
-        <div class="view view-cascade overlay">
+      <!-- card cardpannel -->
+      <div class="card cardpannel card-cascade narrower card-ecommerce">
+        <!-- card cardpannel image -->
+        <div class="view views view-cascade overlay">
           <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/2.jpg" class="card-img-top"
             alt="sample photo">
           <a>
             <div class="mask rgba-white-slight"></div>
           </a>
         </div>
-        <!-- Card image -->
-        <!-- Card content -->
+        <!-- card cardpannel image -->
+        <!-- card cardpannel content -->
         <div class="card-body card-body-cascade text-center">
           <!-- Category & Title -->
           <a href="" class="grey-text">
@@ -2690,7 +2690,7 @@
           <!-- Description -->
           <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
           </p>
-          <!-- Card footer -->
+          <!-- card cardpannel footer -->
           <div class="card-footer px-1">
             <span class="float-left font-weight-bold">
               <strong>89$</strong>
@@ -2708,26 +2708,26 @@
             </span>
           </div>
         </div>
-        <!-- Card content -->
+        <!-- card cardpannel content -->
       </div>
-      <!-- Card -->
+      <!-- card cardpannel -->
     </div>
     <!-- Grid column -->
 
     <!-- Grid column -->
     <div class="col-lg-3 col-md-6 mb-md-0 mb-4">
-      <!-- Card -->
-      <div class="card card-cascade narrower card-ecommerce">
-        <!-- Card image -->
-        <div class="view view-cascade overlay">
+      <!-- card cardpannel -->
+      <div class="card cardpannel card-cascade narrower card-ecommerce">
+        <!-- card cardpannel image -->
+        <div class="view views view-cascade overlay">
           <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/4.jpg" class="card-img-top"
             alt="sample photo">
           <a>
             <div class="mask rgba-white-slight"></div>
           </a>
         </div>
-        <!-- Card image -->
-        <!-- Card content -->
+        <!-- card cardpannel image -->
+        <!-- card cardpannel content -->
         <div class="card-body card-body-cascade text-center">
           <!-- Category & Title -->
           <a href="" class="grey-text">
@@ -2759,7 +2759,7 @@
           <!-- Description -->
           <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
           </p>
-          <!-- Card footer -->
+          <!-- card cardpannel footer -->
           <div class="card-footer px-1">
             <span class="float-left font-weight-bold">
               <strong>59$</strong>
@@ -2777,26 +2777,26 @@
             </span>
           </div>
         </div>
-        <!-- Card content -->
+        <!-- card cardpannel content -->
       </div>
-      <!-- Card -->
+      <!-- card cardpannel -->
     </div>
     <!-- Grid column -->
 
     <!-- Grid column -->
     <div class="col-lg-3 col-md-6">
-      <!-- Card -->
-      <div class="card card-cascade narrower card-ecommerce">
-        <!-- Card image -->
-        <div class="view view-cascade overlay">
+      <!-- card cardpannel -->
+      <div class="card cardpannel card-cascade narrower card-ecommerce">
+        <!-- card cardpannel image -->
+        <div class="view views view-cascade overlay">
           <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/3.jpg" class="card-img-top"
             alt="sample photo">
           <a>
             <div class="mask rgba-white-slight"></div>
           </a>
         </div>
-        <!-- Card image -->
-        <!-- Card content -->
+        <!-- card cardpannel image -->
+        <!-- card cardpannel content -->
         <div class="card-body card-body-cascade text-center">
           <!-- Category & Title -->
           <a href="" class="grey-text">
@@ -2822,7 +2822,7 @@
           <!-- Description -->
           <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
           </p>
-          <!-- Card footer -->
+          <!-- card cardpannel footer -->
           <div class="card-footer px-1">
             <span class="float-left font-weight-bold">
               <strong>119$</strong>
@@ -2840,9 +2840,9 @@
             </span>
           </div>
         </div>
-        <!-- Card content -->
+        <!-- card cardpannel content -->
       </div>
-      <!-- Card -->
+      <!-- card cardpannel -->
     </div>
     <!-- Grid column -->
 
@@ -2850,7 +2850,7 @@
   <!-- Grid row -->
 
 </section>
-<!--Section: Group of personal cards-->
+<!--Section: Group of personal card cardpannels-->
 
 
       <!--Pagination-->
@@ -2975,7 +2975,7 @@ html,
        height:700px;
     }
 
-    .md-card {
+    .md-card cardpannel {
 
     width: 270px;
     margin: 4px;
@@ -2990,6 +2990,18 @@ html,
   .h4-responsive{
     padding-bottom: 2px;
   }
+
+  views{
+  height: 40px;
+  }
+  .h4-responsive{
+    padding-bottom: 2px;
+  }
+
+.cardpannel{
+  height: 530px;
+  margin:7px;
+}
 
 .rating{
 display: inline;
