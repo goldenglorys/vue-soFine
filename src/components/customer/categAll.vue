@@ -2991,15 +2991,15 @@ html,
     padding-bottom: 2px;
   }
 
-  views{
-  height: 40px;
+  .views{
+  height: 300px;
   }
   .h4-responsive{
     padding-bottom: 2px;
   }
 
 .cardpannel{
-  height: 530px;
+  height: 400px;
   margin:7px;
 }
 
